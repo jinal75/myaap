@@ -37,6 +37,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         chadap = new ChatAdapter(MainActivity.this,0,arrayList);
-        lv.setAdapter(chadap);
+       
     }
 }
